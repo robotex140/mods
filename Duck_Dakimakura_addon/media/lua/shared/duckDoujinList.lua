@@ -1,6 +1,4 @@
-require "OpaiZList"
--- Add Weapons Items Here for each Item variant
-OpaiZList = ArrayList.new()
+local OpaiZList = require("OpaiZList")
 
 OpaiZList:add("BerserkDeluxe_1")
 OpaiZList:add("BerserkDeluxe_2")
@@ -14,5 +12,3 @@ OpaiZList:add("BerserkDeluxe_9")
 OpaiZList:add("BerserkDeluxe_10")
 OpaiZList:add("BerserkDeluxe_11")
 OpaiZList:add("BerserkDeluxe_12")
-
-return OpaiZList
