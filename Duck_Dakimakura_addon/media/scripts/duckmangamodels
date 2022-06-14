@@ -1,0 +1,15 @@
+module Base
+{
+    model Metamorphosis
+    {
+        mesh = Magazine,
+		texture = Metamorphosis,
+    }
+
+	model Metamorphosis_ground1
+    {
+        mesh = WorldItems/Magazine,
+		texture = WorldItems/MetamorphosisGround1,
+        scale = 0.4,
+    }
+}

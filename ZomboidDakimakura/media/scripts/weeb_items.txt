@@ -1,0 +1,15 @@
+module Base
+{
+    item OppaiZ1
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	OppaiZ (1st Edition),
+        StressChange	=	-100,
+        Icon	        =	OppaiZ1,
+        BoredomChange	=	-100,
+		UnhappyChange	= -100,
+        StaticModel     =   OppaiZ1,
+        WorldStaticModel =  OppaiZ_ground1,
+    }
+}

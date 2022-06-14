@@ -1,0 +1,11 @@
+VERSION = 1,
+
+mods
+{
+	mod = WaifuDakis,
+	mod = AlexDakis,
+}
+
+maps
+{
+}

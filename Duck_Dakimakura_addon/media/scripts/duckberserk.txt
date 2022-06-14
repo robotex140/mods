@@ -1,0 +1,158 @@
+module Base
+{
+    item BerserkDeluxe_1
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 01,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   BerserkDeluxe_read1,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_2
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 02,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_3
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 03,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+    
+    item BerserkDeluxe_4
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 04,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_5
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 05,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_6
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 06,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_7
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 07,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_8
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 08,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_9
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 09,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+    
+    item BerserkDeluxe_10
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 10,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_11
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 11,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+
+    item BerserkDeluxe_12
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Berserk Deluxe Volume 12,
+        StressChange	=	-100,
+        Icon	        =	BerserkDeluxe_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  BerserkDeluxe_ground1,
+    }
+}

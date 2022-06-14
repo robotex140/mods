@@ -1,0 +1,552 @@
+module Base
+{
+	recipe Craft into Armor (Front)
+    {
+        22Dakimakura,
+		Rope,
+
+        Result:22DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        22Dakimakura,
+		Rope,
+
+        Result:22DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        22DakiArmorFront/22DakiArmorBack,
+
+        Result:22Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        23Dakimakura,
+		Rope,
+
+        Result:23DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        23Dakimakura,
+		Rope,
+
+        Result:23DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        23DakiArmorFront/23DakiArmorBack,
+
+        Result:23Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        24Dakimakura,
+		Rope,
+
+        Result:24DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        24Dakimakura,
+		Rope,
+
+        Result:24DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        24DakiArmorFront/24DakiArmorBack,
+
+        Result:24Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        25Dakimakura,
+		Rope,
+
+        Result:25DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        25Dakimakura,
+		Rope,
+
+        Result:25DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        25DakiArmorFront/25DakiArmorBack,
+
+        Result:25Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        26Dakimakura,
+		Rope,
+
+        Result:26DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        26Dakimakura,
+		Rope,
+
+        Result:26DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        26DakiArmorFront/26DakiArmorBack,
+
+        Result:26Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        27Dakimakura,
+		Rope,
+
+        Result:27DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        27Dakimakura,
+		Rope,
+
+        Result:27DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        27DakiArmorFront/27DakiArmorBack,
+
+        Result:27Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        28Dakimakura,
+		Rope,
+
+        Result:28DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        28Dakimakura,
+		Rope,
+
+        Result:28DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        28DakiArmorFront/28DakiArmorBack,
+
+        Result:28Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        29Dakimakura,
+		Rope,
+
+        Result:29DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        29Dakimakura,
+		Rope,
+
+        Result:29DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        29DakiArmorFront/29DakiArmorBack,
+
+        Result:29Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        30Dakimakura,
+		Rope,
+
+        Result:30DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        30Dakimakura,
+		Rope,
+
+        Result:30DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        30DakiArmorFront/30DakiArmorBack,
+
+        Result:30Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        31Dakimakura,
+		Rope,
+
+        Result:31DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        31Dakimakura,
+		Rope,
+
+        Result:31DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        31DakiArmorFront/31DakiArmorBack,
+
+        Result:31Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        32Dakimakura,
+		Rope,
+
+        Result:32DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        32Dakimakura,
+		Rope,
+
+        Result:32DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        32DakiArmorFront/32DakiArmorBack,
+
+        Result:32Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        33Dakimakura,
+		Rope,
+
+        Result:33DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        33Dakimakura,
+		Rope,
+
+        Result:33DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        33DakiArmorFront/33DakiArmorBack,
+
+        Result:33Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        34Dakimakura,
+		Rope,
+
+        Result:34DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        34Dakimakura,
+		Rope,
+
+        Result:34DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        34DakiArmorFront/34DakiArmorBack,
+
+        Result:34Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        35Dakimakura,
+		Rope,
+
+        Result:35DakiArmorFront,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        35Dakimakura,
+		Rope,
+
+        Result:35DakiArmorBack,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        35DakiArmorFront/35DakiArmorBack,
+
+        Result:35Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:22Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:23Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:24Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:25Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:26Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:27Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:28Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:29Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:30Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:31Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:32Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:33Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:34Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Dakimakura
+	{
+        Money=200,
+
+        Result:35Dakimakura,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Doujinshi
+	{
+        Money=69,
+
+        Result:OmankoZ1,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Buy Doujinshi
+	{
+        Money=69,
+
+        Result:OmankoZ2,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+}

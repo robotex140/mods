@@ -1,0 +1,15 @@
+module Base
+{
+    item Metamorphosis
+    {
+        Weight	        =	0.2,
+        Type	        =	Literature,
+        DisplayName	    =	Metamorphosis,
+        StressChange	=	-100,
+        Icon	        =	Metamorphosis_1,
+        BoredomChange	=	-100,
+		UnhappyChange	=	-100,
+        StaticModel     =   Book,
+        WorldStaticModel =  Metamorphosis_ground1,
+    }
+}

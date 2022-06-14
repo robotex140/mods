@@ -1,0 +1,1598 @@
+module Base
+{
+    item DakiArmorFront66613
+    {
+        DisplayName         = Yashiro Nene Dakimakura,
+        ClothingItem        = DakiArmorFront66613,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66613,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66613 
+    {
+        DisplayName         = Yashiro Nene Dakimakura,
+        ClothingItem        = DakiArmorBack66613,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66613,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    item DakiArmorFront66614
+    {
+        DisplayName         = Siesta Dakimakura,
+        ClothingItem        = DakiArmorFront66614,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66614,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66614 
+    {
+        DisplayName         = Siesta Dakimakura,
+        ClothingItem        = DakiArmorBack66614,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66614,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    item DakiArmorFront66615
+    {
+        DisplayName         = Pecorine Dakimakura,
+        ClothingItem        = DakiArmorFront66615,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66615,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66615 
+    {
+        DisplayName         = Pecorine Dakimakura,
+        ClothingItem        = DakiArmorBack66615,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66615,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    item DakiArmorFront66616
+    {
+        DisplayName         = Koishi Dakimakura,
+        ClothingItem        = DakiArmorFront66616,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66616,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66616 
+    {
+        DisplayName         = Koishi Dakimakura,
+        ClothingItem        = DakiArmorBack66616,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66616,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66617
+    {
+        DisplayName         = Keqing Dakimakura,
+        ClothingItem        = DakiArmorFront66617,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66617,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66617 
+    {
+        DisplayName         = Keqing Dakimakura,
+        ClothingItem        = DakiArmorBack66617,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66617,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+	item DakiArmorBack66618
+    {
+        DisplayName         = Eris Dakimakura,
+        ClothingItem        = DakiArmorFront66618,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66618,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66618 
+    {
+        DisplayName         = Eris Dakimakura,
+        ClothingItem        = DakiArmorBack66618,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66618,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66619
+    {
+        DisplayName         = Kal'tsit Dakimakura,
+        ClothingItem        = DakiArmorFront66619,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66619,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66619 
+    {
+        DisplayName         = Kal'tsit Dakimakura,
+        ClothingItem        = DakiArmorBack66619,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66619,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+ 	item DakiArmorBack66620
+    {
+        DisplayName         = Ganyu Dakimakura,
+        ClothingItem        = DakiArmorFront66620,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66620,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66620 
+    {
+        DisplayName         = Ganyu Dakimakura,
+        ClothingItem        = DakiArmorBack66620,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66620,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66621
+    {
+        DisplayName         = Satanichia Dakimakura,
+        ClothingItem        = DakiArmorFront66621,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66621,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66621 
+    {
+        DisplayName         = Satanichia Dakimakura,
+        ClothingItem        = DakiArmorBack66621,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66621,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    item DakiArmorFront66622
+    {
+        DisplayName         = W Dakimakura,
+        ClothingItem        = DakiArmorFront66622,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66622,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66622 
+    {
+        DisplayName         = W Dakimakura,
+        ClothingItem        = DakiArmorBack66622,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66622,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66623
+    {
+        DisplayName         = Siege Dakimakura,
+        ClothingItem        = DakiArmorFront66623,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66623,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66623 
+    {
+        DisplayName         = Siege Dakimakura,
+        ClothingItem        = DakiArmorBack66623,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66623,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66624
+    {
+        DisplayName         = Prinz Eugen Dakimakura,
+        ClothingItem        = DakiArmorFront66624,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66624,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66624 
+    {
+        DisplayName         = Prinz Eugen Dakimakura,
+        ClothingItem        = DakiArmorBack66624,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66624,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66625
+    {
+        DisplayName         = Friedrich der Große Dakimakura,
+        ClothingItem        = DakiArmorFront66625,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66625,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66625 
+    {
+        DisplayName         = Friedrich der Große Dakimakura,
+        ClothingItem        = DakiArmorBack66625,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66625,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66626
+    {
+        DisplayName         = Asuka Dakimakura,
+        ClothingItem        = DakiArmorFront66626,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66626,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66626 
+    {
+        DisplayName         = Asuka Dakimakura,
+        ClothingItem        = DakiArmorBack66626,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66626,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66627
+    {
+        DisplayName         = Astolfo Dakimakura,
+        ClothingItem        = DakiArmorFront66627,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66627,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66627 
+    {
+        DisplayName         = Astolfo Dakimakura,
+        ClothingItem        = DakiArmorBack66627,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66627,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66628
+    {
+        DisplayName         = Rei Dakimakura,
+        ClothingItem        = DakiArmorFront66628,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66628,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66628 
+    {
+        DisplayName         = Rei Dakimakura,
+        ClothingItem        = DakiArmorBack66628,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66628,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66629
+    {
+        DisplayName         = Rias Gremory Dakimakura,
+        ClothingItem        = DakiArmorFront66629,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66629,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66629 
+    {
+        DisplayName         = Rias Gremory Dakimakura,
+        ClothingItem        = DakiArmorBack66629,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66629,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66630
+    {
+        DisplayName         = Ookami Mio Dakimakura,
+        ClothingItem        = DakiArmorFront66630,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66630,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66630 
+    {
+        DisplayName         = Ookami Mio Dakimakura,
+        ClothingItem        = DakiArmorBack66630,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66630,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66631
+    {
+        DisplayName         = Shirakami Fubuki Dakimakura,
+        ClothingItem        = DakiArmorFront66631,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66631,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66631 
+    {
+        DisplayName         = Shirakami Fubuki Dakimakura,
+        ClothingItem        = DakiArmorBack66631,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66631,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66632
+    {
+        DisplayName         = Medic Gaming Dakimakura,
+        ClothingItem        = DakiArmorFront66632,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66632,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66632 
+    {
+        DisplayName         = Medic Gaming Dakimakura,
+        ClothingItem        = DakiArmorBack66632,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66632,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66633
+    {
+        DisplayName         = Capybara Dakimakura,
+        ClothingItem        = DakiArmorFront66633,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66633,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66633 
+    {
+        DisplayName         = Capybara Dakimakura,
+        ClothingItem        = DakiArmorBack66633,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66633,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66634
+    {
+        DisplayName         = Plank Dakimakura,
+        ClothingItem        = DakiArmorFront66634,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66634,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66634 
+    {
+        DisplayName         = Plank Dakimakura,
+        ClothingItem        = DakiArmorBack66634,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66634,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66635
+    {
+        DisplayName         = Daki Dakimakura,
+        ClothingItem        = DakiArmorFront66635,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66635,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66635 
+    {
+        DisplayName         = Daki Dakimakura,
+        ClothingItem        = DakiArmorBack66635,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66635,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66636
+    {
+        DisplayName         = Karyl Dakimakura,
+        ClothingItem        = DakiArmorFront66636,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66636,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66636 
+    {
+        DisplayName         = Karyl Dakimakura,
+        ClothingItem        = DakiArmorBack66636,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66636,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66637
+    {
+        DisplayName         = W Dakimakura Alt,
+        ClothingItem        = DakiArmorFront66637,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66637,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66637 
+    {
+        DisplayName         = W Dakimakura Alt,
+        ClothingItem        = DakiArmorBack66637,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66637,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    	item DakiArmorBack66638
+    {
+        DisplayName         = Amiya Dakimakura,
+        ClothingItem        = DakiArmorFront66638,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66638,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66638 
+    {
+        DisplayName         = Amiya Dakimakura,
+        ClothingItem        = DakiArmorBack66638,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66638,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    	item DakiArmorBack66639
+    {
+        DisplayName         = Surtr Dakimakura,
+        ClothingItem        = DakiArmorFront66639,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66639,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66639 
+    {
+        DisplayName         = Surtr Dakimakura,
+        ClothingItem        = DakiArmorBack66639,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66639,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    	item DakiArmorBack66640
+    {
+        DisplayName         = Atago Dakimakura,
+        ClothingItem        = DakiArmorFront66640,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66640,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66640 
+    {
+        DisplayName         = Atago Dakimakura,
+        ClothingItem        = DakiArmorBack66640,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66640,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+    	item DakiArmorBack66641
+    {
+        DisplayName         = Prinz Eugen Dakimakura Alt,
+        ClothingItem        = DakiArmorFront66641,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66641,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66641 
+    {
+        DisplayName         = Prinz Eugen Dakimakura Alt,
+        ClothingItem        = DakiArmorBack66641,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66641,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66642
+    {
+        DisplayName         = Chika Dakimakura,
+        ClothingItem        = DakiArmorFront66642,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66642,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66642 
+    {
+        DisplayName         = Chika Dakimakura,
+        ClothingItem        = DakiArmorBack66642,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66642,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66643
+    {
+        DisplayName         = Yuno Dakimakura,
+        ClothingItem        = DakiArmorFront66643,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66643,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66643 
+    {
+        DisplayName         = Yuno Dakimakura,
+        ClothingItem        = DakiArmorBack66643,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66643,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66644
+    {
+        DisplayName         = Hu Tao Dakimakura,
+        ClothingItem        = DakiArmorFront66644,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66644,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66644 
+    {
+        DisplayName         = Hu Tao Dakimakura,
+        ClothingItem        = DakiArmorBack66644,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66644,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+
+	item DakiArmorBack66645
+    {
+        DisplayName         = Ishtar Dakimakura,
+        ClothingItem        = DakiArmorFront66645,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66645,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66645 
+    {
+        DisplayName         = Ishtar Dakimakura,
+        ClothingItem        = DakiArmorBack66645,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66645,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66646
+    {
+        DisplayName         = Kaguya Dakimakura,
+        ClothingItem        = DakiArmorFront66646,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66646,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66646 
+    {
+        DisplayName         = Kaguya Dakimakura,
+        ClothingItem        = DakiArmorBack66646,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66646,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66647
+    {
+        DisplayName         = Oshino Shinobu Dakimakura,
+        ClothingItem        = DakiArmorFront66647,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66647,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66647 
+    {
+        DisplayName         = Oshino Shinobu Dakimakura,
+        ClothingItem        = DakiArmorBack66647,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66647,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66648
+    {
+        DisplayName         = Suu Dakimakura,
+        ClothingItem        = DakiArmorFront66648,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66648,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66648 
+    {
+        DisplayName         = Suu Dakimakura,
+        ClothingItem        = DakiArmorBack66648,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66648,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66649
+    {
+        DisplayName         = Rachel Gardner Dakimakura,
+        ClothingItem        = DakiArmorFront66649,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66649,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66649 
+    {
+        DisplayName         = Rachel Gardner Dakimakura,
+        ClothingItem        = DakiArmorBack66649,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66649,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+    
+    item DakiArmorFront66650
+    {
+        DisplayName         = Violet Evergarden Dakimakura,
+        ClothingItem        = DakiArmorFront66650,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66650,
+        Type = Clothing,
+        BodyLocation = TorsoExtra,
+        BloodLocation = Apron;Groin;Neck,
+		RunSpeedModifier = 0.93,
+		CombatSpeedModifier = 0.98,
+		BiteDefense = 50,
+		ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+		WaterResistance = 0,
+		Weight = 4,
+        Tags = DakiArmor;DakiArmorFront666,
+    }
+	
+	item DakiArmorBack66650 
+    {
+        DisplayName         = Violet Evergarden Dakimakura,
+        ClothingItem        = DakiArmorBack66650,
+        IconsForTexture     = DakimakuraArmor666, /** DO NOT CHANGE UNLESS YOU HAVE CUSTOM ICON **/
+        WorldStaticModel    = DakiArmor_ground66650,
+        Type = Clothing,
+        BodyLocation = Back,
+        BloodLocation = Bag;Apron;Neck,
+        RunSpeedModifier = 0.93,
+        CombatSpeedModifier = 0.98,
+        BiteDefense = 50,
+        ScratchDefense = 50,
+        Insulation = 0.2,
+        WindResistance = 0.05,
+        FabricType = Cotton,
+        WaterResistance = 0,
+        Weight = 4,
+        Tags = DakiArmor;DakiArmorBack666,
+    }
+}

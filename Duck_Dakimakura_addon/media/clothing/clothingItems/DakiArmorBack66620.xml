@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <!-- Basic Properties -->
+    <m_GUID>a6700123-9f99-47c4-a6fa-92ffd45995e7</m_GUID>
+    <m_MaleModel>skinned/clothes/m_daki_armor_back</m_MaleModel>
+    <m_FemaleModel>skinned/clothes/f_daki_armor_back</m_FemaleModel>
+    <textureChoices>clothes\daki_armor66620</textureChoices>
+    <!-- All Properties -->
+<!--
+    <m_GUID></m_GUID> Generate one in www.guidgenerator.com
+    <m_MaleModel></m_MaleModel> <- Male model path
+    <m_FemaleModel></m_FemaleModel> <- Female model path
+    <m_Static></m_Static> <- Optional, default: false
+    <m_BaseTextures></m_BaseTextures> <- Optional
+    <m_AttachBone></m_AttachBone> <- Optional
+    <m_Masks></m_Masks> <- Optional
+    <m_MasksFolder></m_MasksFolder> <- Optional, default: "media/textures/Body/Masks"
+    <m_UnderlayMasksFolder></m_UnderlayMasksFolder> <- Optional, default: "media/textures/Body/Masks"
+    <textureChoices></textureChoices> Texture path
+    <m_AllowRandomHue></m_AllowRandomHue> <- Optional, default: false
+    <m_AllowRandomTint></m_AllowRandomTint> <- Optional, default: false
+    <m_DecalGroup></m_DecalGroup> <- Optional
+    <m_Shader></m_Shader> <- Optional
+    <m_HatCategory></m_HatCategory> <- Optional
+-->
+</clothingItem>

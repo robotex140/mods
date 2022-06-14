@@ -1,0 +1,612 @@
+module Base
+{
+
+    recipe Craft into Armor (Front)
+    {
+        Dakimakura1,
+		Rope,
+
+        Result:DakiArmorFront1,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+   
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura1,
+		Rope,
+
+        Result:DakiArmorBack1,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+    
+	recipe Undo Armor
+	{
+        DakiArmorFront1/DakiArmorBack1,
+
+        Result:Dakimakura1,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura2,
+		Rope,
+
+        Result:DakiArmorFront2,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura2,
+		Rope,
+
+        Result:DakiArmorBack2,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront2/DakiArmorBack2,
+
+        Result:Dakimakura2,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura3,
+		Rope,
+
+        Result:DakiArmorFront3,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura3,
+		Rope,
+
+        Result:DakiArmorBack3,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront3/DakiArmorBack3,
+
+        Result:Dakimakura3,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura4,
+		Rope,
+
+        Result:DakiArmorFront4,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura4,
+		Rope,
+
+        Result:DakiArmorBack4,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront4/DakiArmorBack4,
+
+        Result:Dakimakura4,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura5,
+		Rope,
+
+        Result:DakiArmorFront5,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura5,
+		Rope,
+
+        Result:DakiArmorBack5,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront5/DakiArmorBack5,
+
+        Result:Dakimakura5,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura6,
+		Rope,
+
+        Result:DakiArmorFront6,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura6,
+		Rope,
+
+        Result:DakiArmorBack6,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront6/DakiArmorBack6,
+
+        Result:Dakimakura6,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura7,
+		Rope,
+
+        Result:DakiArmorFront7,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura7,
+		Rope,
+
+        Result:DakiArmorBack7,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront7/DakiArmorBack7,
+
+        Result:Dakimakura7,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura8,
+		Rope,
+
+        Result:DakiArmorFront8,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura8,
+		Rope,
+
+        Result:DakiArmorBack8,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront8/DakiArmorBack8,
+
+        Result:Dakimakura8,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura9,
+		Rope,
+
+        Result:DakiArmorFront9,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura9,
+		Rope,
+
+        Result:DakiArmorBack9,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront9/DakiArmorBack9,
+
+        Result:Dakimakura9,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura10,
+		Rope,
+
+        Result:DakiArmorFront10,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura10,
+		Rope,
+
+        Result:DakiArmorBack10,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront10/DakiArmorBack10,
+
+        Result:Dakimakura10,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura11,
+		Rope,
+
+        Result:DakiArmorFront11,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura11,
+		Rope,
+
+        Result:DakiArmorBack11,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront11/DakiArmorBack11,
+
+        Result:Dakimakura11,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura12,
+		Rope,
+
+        Result:DakiArmorFront12,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura12,
+		Rope,
+
+        Result:DakiArmorBack12,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront1/DakiArmorBack12,
+
+        Result:Dakimakura12,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura13,
+		Rope,
+
+        Result:DakiArmorFront13,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura13,
+		Rope,
+
+        Result:DakiArmorBack13,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront13/DakiArmorBack13,
+
+        Result:Dakimakura13,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura14,
+		Rope,
+
+        Result:DakiArmorFront14,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura14,
+		Rope,
+
+        Result:DakiArmorBack14,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront14/DakiArmorBack14,
+
+        Result:Dakimakura14,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura15,
+		Rope,
+
+        Result:DakiArmorFront15,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura15,
+		Rope,
+
+        Result:DakiArmorBack15,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront15/DakiArmorBack15,
+
+        Result:Dakimakura15,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura16,
+		Rope,
+
+        Result:DakiArmorFront16,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura16,
+		Rope,
+
+        Result:DakiArmorBack16,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront16/DakiArmorBack16,
+
+        Result:Dakimakura16,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura17,
+		Rope,
+
+        Result:DakiArmorFront17,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura17,
+		Rope,
+
+        Result:DakiArmorBack17,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront17/DakiArmorBack17,
+
+        Result:Dakimakura17,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura18,
+		Rope,
+
+        Result:DakiArmorFront18,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura18,
+		Rope,
+
+        Result:DakiArmorBack18,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront18/DakiArmorBack18,
+
+        Result:Dakimakura18,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura19,
+		Rope,
+
+        Result:DakiArmorFront19,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura19,
+		Rope,
+
+        Result:DakiArmorBack19,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront19/DakiArmorBack19,
+
+        Result:Dakimakura19,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura20,
+		Rope,
+
+        Result:DakiArmorFront20,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura20,
+		Rope,
+
+        Result:DakiArmorBack20,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront20/DakiArmorBack20,
+
+        Result:Dakimakura20,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+	
+	recipe Craft into Armor (Front)
+    {
+        Dakimakura21,
+		Rope,
+
+        Result:DakiArmorFront21,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+    recipe Craft into Armor (Back)
+    {
+        Dakimakura21,
+		Rope,
+
+        Result:DakiArmorBack21,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+
+	recipe Undo Armor
+	{
+        DakiArmorFront21/DakiArmorBack21,
+
+        Result:Dakimakura21,
+        Time:40,
+        AnimNode:RipSheets,
+    }
+}

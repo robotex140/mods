@@ -1,0 +1,170 @@
+module Base
+{
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura1,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura2,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura3,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura4,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura5,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura6,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura7,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura8,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura9,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura10,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura11,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura12,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura13,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura14,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura15,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura16,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura17,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura18,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura19,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura20,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+	
+	fixing Fix Dakimakura
+	{
+	   Require : Dakimakura21,
+	   
+       Fixer : DuctTape=2,
+       Fixer : Scotchtape=4,
+	}
+}

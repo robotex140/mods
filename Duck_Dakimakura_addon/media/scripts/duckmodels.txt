@@ -1,0 +1,1156 @@
+/** FILL IN AND COPY THESE FOR HOWEVER MANY ITEMS YOU NEED **/
+module Base
+{
+		model Dakimakura66613
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66613,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66613
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66613,
+	}
+
+		model Dakimakura66614
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66614,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66614
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66614,
+	}
+
+		model Dakimakura66615
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66615,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66615
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66615,
+	}
+
+		model Dakimakura66616
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66616,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66616
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66616,
+	}
+
+		model Dakimakura66617
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66617,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66617
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66617,
+	}
+
+		model Dakimakura66618
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66618,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66618
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66618,
+	}
+
+		model Dakimakura66619
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66619,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66619
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66619,
+	}
+
+		model Dakimakura66620
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66620,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66620
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66620,
+	}
+
+		model Dakimakura66621
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66621,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66621
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66622,
+	}
+
+	model Dakimakura66622
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66622,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66622
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66622,
+	}
+
+	model Dakimakura66623
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66623,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66623
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66623,
+	}
+
+	model Dakimakura66624
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66624,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66624
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66624,
+	}
+
+	model Dakimakura66625
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66625,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66625
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66625,
+	}
+	
+		model Dakimakura66626
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66626,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66626
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66626,
+	}
+
+			model Dakimakura66627
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66627,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66627
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66627,
+	}
+
+			model Dakimakura66628
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66628,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66628
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66628,
+	}
+
+			model Dakimakura66629
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66629,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66629
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66629,
+	}
+
+			model Dakimakura66630
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66630,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66630
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66630,
+	}
+
+			model Dakimakura66631
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66631,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66631
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66631,
+	}
+
+			model Dakimakura66632
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66632,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66632
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66632,
+	}
+
+			model Dakimakura66633
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66633,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66633
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66633,
+	}
+
+				model Dakimakura66634
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66634,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66634
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66634,
+	}
+
+				model Dakimakura66635
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66635,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66635
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66635,
+	}
+
+				model Dakimakura66636
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66636,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66636
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66636,
+	}
+
+		model Dakimakura66637
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66637,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66637
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66637,
+	}
+
+		model Dakimakura66638
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66638,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66638
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66638,
+	}
+
+		model Dakimakura66639
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66639,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66639
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66639,
+	}
+
+		model Dakimakura66640
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66640,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66640
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66640,
+	}
+
+		model Dakimakura66641
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66641,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66641
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66641,
+	}
+
+		model Dakimakura66642
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66642,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}duckrecipes
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66642
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66642,
+	}
+
+	model Dakimakura66643
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66643,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66643
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66643,
+	}
+
+	model Dakimakura66644
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66644,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66644
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66644,
+	}
+
+	model Dakimakura66645
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66645,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66645
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66645,
+	}
+	
+		model Dakimakura66646
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66646,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66646
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66646,
+	}
+
+			model Dakimakura66647
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66647,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66647
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66647,
+	}
+
+			model Dakimakura66648
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66648,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66648
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66648,
+	}
+
+			model Dakimakura66649
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66649,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66649
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66649,
+	}
+
+			model Dakimakura66650
+	{
+		mesh = Weapons/2Handed/daki,
+		texture = Weapons/2Handed/daki66650,
+
+		attachment shovel_back
+		{
+			offset = 0.0000 0.5430 0.0000,
+			rotate = 2.0000 0.0000 -171.0000,
+		}
+
+		attachment world
+		{
+			offset = 0.0030 0.0000 0.0000,
+			rotate = -90.0000 0.0000 0.0000,
+		}
+
+		attachment shovel_back_bag
+		{
+			offset = -0.0510 0.5000 -0.0600,
+			rotate = 0.0000 -5.0000 180.0000,
+		}
+	}
+	
+	model DakiArmor_ground66650
+    {
+        mesh = static/dakiarmor_ground,
+		texture = clothes/daki_armor66650,
+	}
+
+		model BerserkDeluxe_1
+    {
+        mesh = Book,
+		texture = BerserkDeluxe_read1,
+    }
+
+	model BerserkDeluxe_ground1
+    {
+        mesh = WorldItems/Book,
+		texture = WorldItems/BerserkDeluxeGround1,
+        scale = 0.4,
+    }
+}
